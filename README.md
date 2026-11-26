@@ -1,2 +1,5 @@
 # obsidian-shell
-Lightweight Godot utilities and helpers (obsidian-shell)
+
+Lightweight `Godot` utilities maintained by @astralcrowhq.
+
+- Focus: Enjoying the quiet craft of well-structured software.
